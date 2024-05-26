@@ -1,0 +1,4 @@
+positive	324
+negative	82
+random		2403
+Percentage of non random: 14.45%
