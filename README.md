@@ -18,7 +18,7 @@ Microbial communities, biostatistics, bioinformatics, hydrocarbons
 
 ## Files
 - `README.md`: this file
-- `internship_report.pdf`: the internship report (in french)
+- `Rapport de stage.pdf`: the internship report (in french)
 - `requirements.txt`: the list of required libraries
 - `fig_2.a.py`: This script preprocesses data, calculates the Bray-Curtis distance between data points, performs Principal Coordinate Analysis (PCoA) on the initial conditions, and generates 3D plots and variance explained plots, saving them in various formats.
 - `fig_2b.py`: This script preprocesses data, calculates the Bray-Curtis distance, performs PCoA, generates 3D plots and variance explained plots, saves them in various formats, and creates a rotating 3D plot gif.
