@@ -1,0 +1,3 @@
+Test de la différence d'abondance relative des DB-SO avant et apèrs la première oxygénation:
+	- t: 3.4245892710391654
+	- p: 0.02666762119507605
