@@ -1,0 +1,7 @@
+Test de la différence d'abondance relative des SRB entre avant et après la première oxygénation:
+	- t: 14.806100153226163
+	- p: 0.00012114218517859662
+
+Test du ratio DB/SRB entre avant et après la première oxygénation:
+	- t: -4.21168484515847
+	- p: 0.013567803654821286

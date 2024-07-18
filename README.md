@@ -17,3 +17,4 @@ the bioremediation of contaminated marine sediments.
 Microbial communities, biostatistics, bioinformatics, hydrocarbons
 
 ## Exemple of figures
+![Figure 1](
