@@ -17,6 +17,11 @@ the bioremediation of contaminated marine sediments.
 Microbial communities, biostatistics, bioinformatics, hydrocarbons
 
 ## Exemple of figures
+### Comparison of metabolically active bacterial community structures (A) for microbial communities five days after the start of incubation and (B) during bioreactor incubations.
 ![Figure 2](https://github.com/RaphaelRibes/Analysis-of-Hydrocarbonoclastic-Microbial-Communities-Subjected-to-Different-Oxygenation-Conditions/blob/master/final/Fig%202%20-%20horizontal.png?raw=true)
+### Co-occurrence matrix of the main ASVs (relative abundance > 1%).
 ![Figure 3](https://github.com/RaphaelRibes/Analysis-of-Hydrocarbonoclastic-Microbial-Communities-Subjected-to-Different-Oxygenation-Conditions/blob/master/final/fig%203/fig3.png?raw=true)
+### Dynamics of sulfate-reducing bacteria (SRB) and denitrifying bacteria (DB).
 ![Figure 4](https://github.com/RaphaelRibes/Analysis-of-Hydrocarbonoclastic-Microbial-Communities-Subjected-to-Different-Oxygenation-Conditions/blob/master/final/fig%204%20en.png?raw=true)
+### Analysis of microbial community network modules before the first oxygenation and their correlation with alkane and PAH Degradation
+![Figure 5.a](https://github.com/RaphaelRibes/Analysis-of-Hydrocarbonoclastic-Microbial-Communities-Subjected-to-Different-Oxygenation-Conditions/blob/master/final/fig%205.b/undirected%20network%20ox.png?raw=true)
