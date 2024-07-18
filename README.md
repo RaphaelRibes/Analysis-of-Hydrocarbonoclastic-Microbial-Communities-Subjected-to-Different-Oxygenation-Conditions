@@ -17,4 +17,6 @@ the bioremediation of contaminated marine sediments.
 Microbial communities, biostatistics, bioinformatics, hydrocarbons
 
 ## Exemple of figures
-![Figure 1](
+![Figure 2](https://github.com/RaphaelRibes/Analysis-of-Hydrocarbonoclastic-Microbial-Communities-Subjected-to-Different-Oxygenation-Conditions/blob/master/final/Fig%202%20-%20horizontal.png?raw=true)
+![Figure 3](https://github.com/RaphaelRibes/Analysis-of-Hydrocarbonoclastic-Microbial-Communities-Subjected-to-Different-Oxygenation-Conditions/blob/master/final/fig%203/fig3.png?raw=true)
+![Figure 4](https://github.com/RaphaelRibes/Analysis-of-Hydrocarbonoclastic-Microbial-Communities-Subjected-to-Different-Oxygenation-Conditions/blob/master/final/fig%204%20en.png?raw=true)
